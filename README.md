@@ -22,6 +22,7 @@ Conclusão:
 O GaleriaSASS não é apenas uma aplicação de galeria de fotos; é um espaço onde suas memórias visuais ganham vida. Ao oferecer um portfólio digital organizado no app mobile e uma visualização elegante no app web, o GaleriaSASS redefine a maneira como interagimos com nossas fotos. Simples, eficiente e visualmente atraente, este é o futuro da galeria de preferências. Explore o GaleriaSASS e veja suas memórias de uma forma completamente nova.
 
 ## Layout mobile
+![GaleriaSass](https://github.com/Larwargrjr2/Super-GaleriaSASS-master/assets/153688330/a01d1498-4600-4a77-ace9-ad886a14e708)
 
 ## Layout web
 
