@@ -1,4 +1,3 @@
-# GaleriaSASS
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Larwargrjr2/sds1-Larwargrjr2/blob/master/LICENSE) 
 
 # Sobre o projeto 
@@ -27,10 +26,9 @@ Conclusão:
 O GaleriaSASS não é apenas uma aplicação de galeria de fotos; é um espaço onde suas memórias visuais ganham vida. Ao oferecer um portfólio digital organizado no app mobile e uma visualização elegante no app web, o GaleriaSASS redefine a maneira como interagimos com nossas fotos. Simples, eficiente e visualmente atraente, este é o futuro da galeria de preferências. Explore o GaleriaSASS e veja suas memórias de uma forma completamente nova.
 
 ## Layout mobile
-![Mobile 1]([https://github.com/acenelio/assets/raw/main/sds1/mobile1.png](https://uploaddeimagens.com.br/imagens/fcwh41I)) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1]("C:\Users\giann\OneDrive\Área de Trabalho\GaleriaSass.png")
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
