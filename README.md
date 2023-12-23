@@ -28,12 +28,9 @@ O GaleriaSASS não é apenas uma aplicação de galeria de fotos; é um espaço 
 ## Layout mobile
 
 ## Layout web
-![Web 1]("C:\Users\giann\OneDrive\Área de Trabalho\GaleriaSass.png")
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
 
 ### Front-end technologies used: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%2300BFFF?style=flat-square&logo=CSS3&logoColor=ffffff)
 ### CSS preprocessor: ![SASS](http://img.shields.io/badge/-SASS-CD6799?style=flat-square&logo=Sass&logoColor=ffffff)
