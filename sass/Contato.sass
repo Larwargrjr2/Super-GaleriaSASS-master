@@ -1,0 +1,125 @@
+@use 'variables'
+@use 'mixins'
+
+//Sempre executar: sass --watch sass/Contato.sass:css/Contato.css
+
+*
+    font-family: 'Josefin Sans'
+    padding: 0
+    margin: 0
+    box-sizing: border-box
+
+body
+    background-color: variables.$bg-color
+    color: variables.$text-color
+
+    a
+        color: variables.$text-color
+        text-decoration: none
+        transition: .4s
+    ul
+        list-style: none
+
+.header
+    display: flex
+    justify-content: space-between
+    @include mixins.container
+
+    @include mixins.mobile
+        padding: 1.1rem
+
+    &-brand //.header-brand
+        color: variables.$primary-color
+        font-size: 3rem
+
+    &-navbar //.header-navbar
+        ul
+            height: 100%
+            @include mixins.flex-center
+
+            @include mixins.mobile
+                display: none
+            
+            li
+                margin: 0 1rem
+                text-transform: uppercase
+                font-size: .8rem
+
+                .active
+                    color: variables.$secondary-color
+                a
+                    &:hover
+                        color: variables.$secondary-color
+
+    &-social-media //.header-social-media
+        ul
+            @include mixins.flex-center
+            height: 100%
+
+            li
+                margin: 0 1rem    
+
+                a
+                    &:hover
+                        color: variables.$primary-color
+
+.sobre
+    margin-bottom: 20px
+
+    @include mixins.mobile
+        margin-bottom: 150px
+
+    &-title
+        display: block
+        margin-bottom: 20px
+        margin-left: 100px
+        font-size: 29pt
+
+        @include mixins.mobile
+            margin-left: 0
+            text-align: center
+
+
+    &-textos
+        display: inline-block
+        margin: 0px 10px 0px 100px
+        color: #FFF
+        font-size: 18pt
+        width: 40%
+        float: left
+
+        @include mixins.mobile
+            float: none
+            width: 90%
+            font-size: 15pt
+            margin: 0px 20px
+            text-align: justify
+
+        p
+            margin-bottom: 5px
+        
+        a
+            &:hover
+                color: variables.$secondary-color
+    
+    &-img 
+        width: 20%
+        display: inline-block
+
+        @include mixins.mobile
+            display: none
+
+
+footer
+    text-align: center
+    padding-bottom: 2rem
+
+    @include mixins.mobile
+    padding-bottom: 1rem
+
+    p
+        font-weight: bold
+        color: variables.$secondary-color
+    
+    a:hover
+        color: variables.$secondary-color
