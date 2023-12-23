@@ -1,9 +1,5 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Larwargrjr2/sds1-Larwargrjr2/blob/master/LICENSE) 
 
-# Sobre o projeto 
-
-file:///C:/Users/giann/OneDrive/Área%20de%20Trabalho/hub%20de%20projetos/Super-GaleriaSASS-master/index.html
-
 # Sobre o Projeto
 
 GaleriaSASS é uma Galeria de fotos  full stack web e mobile construída e Desenvolvido com Html5,Css3,Sass- (#GaleriaSASS)]
