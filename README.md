@@ -3,7 +3,9 @@
 
 # Sobre o projeto 
 
-file:///C:/Users/giann/OneDrive/Área%20de%20Trabalho/hub%20de%20projetos/Super-GaleriaSASS-master/index.html#
+file:///C:/Users/giann/OneDrive/Área%20de%20Trabalho/hub%20de%20projetos/Super-GaleriaSASS-master/index.html
+
+# Sobre o Projeto
 
 GaleriaSASS é uma Galeria de fotos  full stack web e mobile construída e Desenvolvido com Html5,Css3,Sass- (#GaleriaSASS)]
 
