@@ -21,13 +21,11 @@ A estética do GaleriaSASS é marcada por um design responsivo que se adapta a d
 Conclusão:
 O GaleriaSASS não é apenas uma aplicação de galeria de fotos; é um espaço onde suas memórias visuais ganham vida. Ao oferecer um portfólio digital organizado no app mobile e uma visualização elegante no app web, o GaleriaSASS redefine a maneira como interagimos com nossas fotos. Simples, eficiente e visualmente atraente, este é o futuro da galeria de preferências. Explore o GaleriaSASS e veja suas memórias de uma forma completamente nova.
 
-## Layout mobile
-![GaleriaSass](https://github.com/Larwargrjr2/Super-GaleriaSASS-master/assets/153688330/a01d1498-4600-4a77-ace9-ad886a14e708)
 
+## Layout web Notebook
+![GaleriaSass notbook](https://github.com/Larwargrjr2/Super-GaleriaSASS-master/assets/153688330/976b2b8c-91e4-4f0c-ace3-c6b0ae6e19d9)
 ## Layout web
-
-## Modelo conceitual
-
+![GaleriaSass](https://github.com/Larwargrjr2/Super-GaleriaSASS-master/assets/153688330/a01d1498-4600-4a77-ace9-ad886a14e708)
 
 ### Front-end technologies used: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%2300BFFF?style=flat-square&logo=CSS3&logoColor=ffffff)
 ### CSS preprocessor: ![SASS](http://img.shields.io/badge/-SASS-CD6799?style=flat-square&logo=Sass&logoColor=ffffff)
